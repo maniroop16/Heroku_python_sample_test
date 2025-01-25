@@ -1,2 +1,6 @@
-app = ""
-print('Welcome Krishna!!')
+
+
+def func():
+    print('Welcome Krishna!!')
+
+app = func()    
