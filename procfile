@@ -1,1 +1,1 @@
-web: gunicorn Hreoku_test:app --log-file
+web: gunicorn Hreoku_test --log-file
